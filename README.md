@@ -64,7 +64,7 @@ It was built to capture traffic while performing ARP spoofing, allowing you to i
 How it works on your device:<br/>
 
 <p align="center">
-    <img width="500"
+    <img width="700"
         src="images/003.png"
         alt="Tool excecution Example"
         style="float: left; margin-right: 10px;">
@@ -73,7 +73,7 @@ How it works on your device:<br/>
 How it works on a target device:<br/>
 
 <p align="center">
-    <img width="500"
+    <img width="700"
         src="images/004.png"
         alt="Tool excecution Example"
         style="float: left; margin-right: 10px;">
