@@ -87,7 +87,7 @@ How it works on a target device:<br/>
 
 - **Domain:**
     Provide a domain name or a list of domain names separed by commas using the **-d / --domain** argument.<br/>
-    Example: -d Hack4u.io
+    Example: -d Hack4u.io<br/>
     Example: -d Hack4u.io,amazon.com
 
 - **Your Own Server Ip:**
