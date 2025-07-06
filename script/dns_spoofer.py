@@ -68,9 +68,18 @@ def process_packet(packet):
     
     packet.accept()
 
+# Banner
+def print_banner():
+    print(colored("""
+█▀▄ █▄░█ █▀   █▀ █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀█
+█▄▀ █░▀█ ▄█   ▄█ █▀▀ █▄█ █▄█ █▀░ ██▄ █▀▄\n""", 'white'))
+
+    print(colored("""Mᴀᴅᴇ ʙʏ sᴀᴍᴍʏ-ᴜʟғʜ\n""", 'yellow'))
+
 def main():
     global domains, IP
 
+    print_banner()
     domains, IP = get_arguments()
     domains = f"{domains},"
     
